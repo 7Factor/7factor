@@ -1,4 +1,4 @@
-#The 7Factors
+# The 7Factors
 
 1. **Be a force multiplier.** Always make those around you better. Seek to teach, elevate, and strengthen the team, and do so mercifully.
 2. **Improvement is never done.** Automate everything so we can be fearlessly refactor.
