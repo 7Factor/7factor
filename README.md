@@ -1,6 +1,6 @@
 # The 7Factors
 
-Below are a list of ideaologies that we believe help build human centric, high performing engineering teams. These ideas are obvious, extensible, encapsulated, and available for anyone to implement.
+Below are a list of ideologies that we believe help build human centric, high performing engineering teams. These ideas are obvious, extensible, encapsulated, and available for anyone to implement.
 
 1. **Be a force multiplier.** Always make those around you better. Seek to teach, elevate, and strengthen the team, and do so mercifully.
 2. **Improvement is never done.** Automate everything so we can fearlessly refactor.
